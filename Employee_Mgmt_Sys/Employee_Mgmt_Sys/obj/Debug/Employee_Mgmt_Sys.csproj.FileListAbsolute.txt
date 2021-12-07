@@ -1,0 +1,5 @@
+C:\Users\narendra\documents\visual studio 2010\Projects\Employee_Mgmt_Sys\Employee_Mgmt_Sys\bin\Employee_Mgmt_Sys.dll
+C:\Users\narendra\documents\visual studio 2010\Projects\Employee_Mgmt_Sys\Employee_Mgmt_Sys\bin\Employee_Mgmt_Sys.pdb
+C:\Users\narendra\documents\visual studio 2010\Projects\Employee_Mgmt_Sys\Employee_Mgmt_Sys\obj\Debug\Employee_Mgmt_Sys.dll
+C:\Users\narendra\documents\visual studio 2010\Projects\Employee_Mgmt_Sys\Employee_Mgmt_Sys\obj\Debug\Employee_Mgmt_Sys.pdb
+C:\Users\narendra\documents\visual studio 2010\Projects\Employee_Mgmt_Sys\Employee_Mgmt_Sys\obj\Debug\Employee_Mgmt_Sys.csprojResolveAssemblyReference.cache
